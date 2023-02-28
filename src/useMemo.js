@@ -26,9 +26,4 @@ function App(props) {
 }
 
 
-
-
-
-// const App = () => <App1 initCount={10}></App1>
-
 export default App;
