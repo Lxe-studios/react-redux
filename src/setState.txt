@@ -1,0 +1,8 @@
+isBatchUpdates 判断 default false
+直接更新this.state
+setState是同步更新
+isBatchUpdates true -〉 batchUpdates  setState是同步更新
+
+setState不是异步；不能同步更新this.state  在React控制范围之内
+
+
